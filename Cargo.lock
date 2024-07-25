@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Fast_Powering_Addition"
+name = "Fast_Powering_Algorithm_Addition_of_Integers"
 version = "0.1.0"
